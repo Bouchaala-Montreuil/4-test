@@ -26,7 +26,6 @@ const lastName=document.getElementById('last');
 const email=document.getElementById('email');
 const birthDate=document.getElementById('birthdate');
 const quantity=document.getElementById('quantity');
-let town=document.reserve.location;
 let term=document.getElementById('checkbox2');
 let emailRegex=/^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/
 let nameRegex= /^[a-zA-Z\-]+$/;
